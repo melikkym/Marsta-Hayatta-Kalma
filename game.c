@@ -451,6 +451,6 @@ int main() {
     printf("TOPLAM PUANINIZ     : %d\n", puan);
     printf("==================================================\n");
 #pragma endregion
- 
+system("pause");
 return 0;
 }
